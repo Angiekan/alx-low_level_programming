@@ -1,5 +1,4 @@
-0x00. C - Hello, World
-Why C programming is awesome
-Who invented C
-Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
-What happens when you type gcc main.c
+0x09. C - Static libraries
+General
+What is a static library, how does it work, how to create one, and how to use it
+Basic usage of ar, ranlib, nm
